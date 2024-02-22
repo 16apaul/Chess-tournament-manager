@@ -1,0 +1,59 @@
+Y:\Year 12\12A\Aritra Paul\visual basic\form design\form design\form design\bin\Debug\form design.exe.config
+Y:\Year 12\12A\Aritra Paul\visual basic\form design\form design\form design\bin\Debug\form design.exe
+Y:\Year 12\12A\Aritra Paul\visual basic\form design\form design\form design\bin\Debug\form design.pdb
+Y:\Year 12\12A\Aritra Paul\visual basic\form design\form design\form design\bin\Debug\form design.xml
+Y:\Year 12\12A\Aritra Paul\visual basic\form design\form design\form design\obj\Debug\form design.vbprojAssemblyReference.cache
+Y:\Year 12\12A\Aritra Paul\visual basic\form design\form design\form design\obj\Debug\form_design.Form1.resources
+Y:\Year 12\12A\Aritra Paul\visual basic\form design\form design\form design\obj\Debug\form_design.Resources.resources
+Y:\Year 12\12A\Aritra Paul\visual basic\form design\form design\form design\obj\Debug\form design.vbproj.GenerateResource.cache
+Y:\Year 12\12A\Aritra Paul\visual basic\form design\form design\form design\obj\Debug\form design.exe
+Y:\Year 12\12A\Aritra Paul\visual basic\form design\form design\form design\obj\Debug\form design.xml
+Y:\Year 12\12A\Aritra Paul\visual basic\form design\form design\form design\obj\Debug\form design.pdb
+H:\!6th form\Computer science\nea\form design\form design\bin\Debug\form design.exe.config
+H:\!6th form\Computer science\nea\form design\form design\bin\Debug\form design.exe
+H:\!6th form\Computer science\nea\form design\form design\bin\Debug\form design.pdb
+H:\!6th form\Computer science\nea\form design\form design\bin\Debug\form design.xml
+H:\!6th form\Computer science\nea\form design\form design\obj\Debug\form design.vbprojAssemblyReference.cache
+H:\!6th form\Computer science\nea\form design\form design\obj\Debug\form_design.Form1.resources
+H:\!6th form\Computer science\nea\form design\form design\obj\Debug\form_design.Resources.resources
+H:\!6th form\Computer science\nea\form design\form design\obj\Debug\form design.vbproj.GenerateResource.cache
+H:\!6th form\Computer science\nea\form design\form design\obj\Debug\form design.exe
+H:\!6th form\Computer science\nea\form design\form design\obj\Debug\form design.xml
+H:\!6th form\Computer science\nea\form design\form design\obj\Debug\form design.pdb
+C:\Nea\form design\form design\bin\Debug\form design.exe.config
+C:\Nea\form design\form design\bin\Debug\form design.exe
+C:\Nea\form design\form design\bin\Debug\form design.pdb
+C:\Nea\form design\form design\bin\Debug\form design.xml
+C:\Nea\form design\form design\obj\Debug\form design.vbproj.AssemblyReference.cache
+C:\Nea\form design\form design\obj\Debug\form design.vbproj.SuggestedBindingRedirects.cache
+C:\Nea\form design\form design\obj\Debug\form_design.Form1.resources
+C:\Nea\form design\form design\obj\Debug\form_design.Resources.resources
+C:\Nea\form design\form design\obj\Debug\form design.vbproj.GenerateResource.cache
+C:\Nea\form design\form design\obj\Debug\form design.vbproj.CoreCompileInputs.cache
+C:\Nea\form design\form design\obj\Debug\form design.exe
+C:\Nea\form design\form design\obj\Debug\form design.xml
+C:\Nea\form design\form design\obj\Debug\form design.pdb
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\bin\Debug\form design.exe.config
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\bin\Debug\form design.exe
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\bin\Debug\form design.pdb
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\bin\Debug\form design.xml
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\obj\Debug\form design.vbproj.AssemblyReference.cache
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\obj\Debug\form design.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\obj\Debug\form_design.Form1.resources
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\obj\Debug\form_design.Resources.resources
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\obj\Debug\form design.vbproj.GenerateResource.cache
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\obj\Debug\form design.vbproj.CoreCompileInputs.cache
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\obj\Debug\form design.exe
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\obj\Debug\form design.xml
+C:\Users\aritr\Downloads\OneDrive_2022-11-21\form design\form design\obj\Debug\form design.pdb
+H:\!6th form\Computer science\form design\form design\bin\Debug\form design.exe.config
+H:\!6th form\Computer science\form design\form design\bin\Debug\form design.exe
+H:\!6th form\Computer science\form design\form design\bin\Debug\form design.pdb
+H:\!6th form\Computer science\form design\form design\bin\Debug\form design.xml
+H:\!6th form\Computer science\form design\form design\obj\Debug\form design.vbprojAssemblyReference.cache
+H:\!6th form\Computer science\form design\form design\obj\Debug\form_design.form1.resources
+H:\!6th form\Computer science\form design\form design\obj\Debug\form_design.Resources.resources
+H:\!6th form\Computer science\form design\form design\obj\Debug\form design.vbproj.GenerateResource.cache
+H:\!6th form\Computer science\form design\form design\obj\Debug\form design.exe
+H:\!6th form\Computer science\form design\form design\obj\Debug\form design.xml
+H:\!6th form\Computer science\form design\form design\obj\Debug\form design.pdb
